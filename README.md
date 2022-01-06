@@ -29,35 +29,15 @@
 
 ## My Technical Skills: 
 
-![C++](https://img.shields.io/badge/Code-C%2B%2B-brightgreen)
-
-![C#](https://img.shields.io/badge/Code-C%23-green)
-
-![JS](https://img.shields.io/badge/Code-JavaScript-brightgreen)
-
-![React.js](https://img.shields.io/badge/Code-React.js-brightgreen)
-
-![Java](https://img.shields.io/badge/Code-Java-orange)
-
-![HTML](https://img.shields.io/badge/Code-HTML-blue)
-
-![CSS](https://img.shields.io/badge/Code-CSS-blue)
-
-![VB](https://img.shields.io/badge/Code-VisualBasic-yellowgreen)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-brightgreen)![C#](https://img.shields.io/badge/Code-C%23-green)![JS](https://img.shields.io/badge/Code-JavaScript-brightgreen)
+![React.js](https://img.shields.io/badge/Code-React.js-brightgreen)![Java](https://img.shields.io/badge/Code-Java-orange)![HTML](https://img.shields.io/badge/Code-HTML-blue)
+![CSS](https://img.shields.io/badge/Code-CSS-blue)![VB](https://img.shields.io/badge/Code-VisualBasic-yellowgreen)
 
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=flat&logo=Git&color=FF729F)
 
-![VisualStudio](https://img.shields.io/badge/Software-VisualStudio%20Code-green)
+![VisualStudio](https://img.shields.io/badge/Software-VisualStudio%20Code-green)![Unity3D](https://img.shields.io/badge/Software-Unity3D-brightgreen)![UnrealEngine](https://img.shields.io/badge/Software-UnrealEngine-yellowgreen)
 
-![Unity3D](https://img.shields.io/badge/Software-Unity3D-brightgreen)
-
-![UnrealEngine](https://img.shields.io/badge/Software-UnrealEngine-yellowgreen)
-
-![Photoshop](https://img.shields.io/badge/Software-Photoshop-red)
-
-![Maya](https://img.shields.io/badge/Software-Maya-orange)
-
-![Blender](https://img.shields.io/badge/Software-Blender-orange)
+![Photoshop](https://img.shields.io/badge/Software-Photoshop-red)![Maya](https://img.shields.io/badge/Software-Maya-orange)![Blender](https://img.shields.io/badge/Software-Blender-orange)
 
 ### How To Find Me:
 
