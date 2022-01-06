@@ -10,22 +10,22 @@
 </h3>
 
 <h4 align="center">
-    I'm a Game Developer that specializes in programming and designing video games and web applications.
+    I'm a Game Developer that specializes in programming and designing video games and web applications. :space_invader:
 </h4>
 
 ## Get To Know Me:
 
-- I'm Kenyan and Ghanian by blood and American by birth. 🇨🇩
+- I'm Kenyan and Ghanian by blood and American by birth. :kenya: :ghana:
 - Boston, Ma. Born & raised. 
 - I speak English, Swahili, and some German and Japanese.
 
 ## I’m currently learning ...
 
 - German 🎙
-- React.js
+- React.js :man_technologist:
 - API Development
-- Game Dev
-- Guitar
+- Game Dev 	:computer:
+- Guitar :guitar:
 
 ## My Technical Skills: 
 
