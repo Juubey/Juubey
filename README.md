@@ -10,25 +10,26 @@
 </h3>
 
 <h4 align="center">
-    I'm a Game Developer that specializes in programming and designing video games and web applications.
+    I'm a Game Developer that specializes in programming and designing video games and web applications. :space_invader:
 </h4>
 
 ## Get To Know Me:
 
-- I'm Kenyan and Ghanian by blood and American by birth. 🇨🇩
+- I'm Kenyan and Ghanian by blood and American by birth. :kenya: :ghana:
 - Boston, Ma. Born & raised. 
 - I speak English, Swahili, and some German and Japanese.
 
 ## I’m currently learning ...
 
 - German 🎙
-- React.js
+- React.js :man_technologist:
 - API Development
-- Game Dev
-- Guitar
+- Game Dev 	:computer:
+- Guitar :guitar:
 
 ## My Technical Skills: 
 
+<<<<<<< HEAD
 ![C++](https://img.shields.io/badge/Code-C%2B%2B-brightgreen)
 ![C#](https://img.shields.io/badge/Code-C%23-green)
 ![JS](https://img.shields.io/badge/Code-JavaScript-brightgreen)
@@ -47,6 +48,17 @@
 ![Photoshop](https://img.shields.io/badge/Software-Photoshop-red)
 ![Maya](https://img.shields.io/badge/Software-Maya-orange)
 ![Blender](https://img.shields.io/badge/Software-Blender-orange)
+=======
+![C++](https://img.shields.io/badge/Code-C%2B%2B-brightgreen)![C#](https://img.shields.io/badge/Code-C%23-green)![JS](https://img.shields.io/badge/Code-JavaScript-brightgreen)
+![React.js](https://img.shields.io/badge/Code-React.js-brightgreen)![Java](https://img.shields.io/badge/Code-Java-orange)![HTML](https://img.shields.io/badge/Code-HTML-blue)
+![CSS](https://img.shields.io/badge/Code-CSS-blue)![VB](https://img.shields.io/badge/Code-VisualBasic-yellowgreen)
+
+![Git](https://img.shields.io/badge/Version-Git-informational?style=flat&logo=Git&color=FF729F)
+
+![VisualStudio](https://img.shields.io/badge/Software-VisualStudio%20Code-green)![Unity3D](https://img.shields.io/badge/Software-Unity3D-brightgreen)![UnrealEngine](https://img.shields.io/badge/Software-UnrealEngine-yellowgreen)
+
+![Photoshop](https://img.shields.io/badge/Software-Photoshop-red)![Maya](https://img.shields.io/badge/Software-Maya-orange)![Blender](https://img.shields.io/badge/Software-Blender-orange)
+>>>>>>> 2a27a04a53f042b37dedee379d075e4535c62338
 
 ### How To Find Me:
 
