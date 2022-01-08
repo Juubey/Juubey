@@ -42,6 +42,5 @@
 ### How To Find Me:
 
 <a href="https://www.linkedin.com/in/albert-njubi/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/linkedin.svg" alt="Albert Njubi | LinkedIn" width="21px"/></a>
-<!--<a href="https://instagram.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/instagram.svg" alt="Albert Njubi | Instagram" width="21px"/></a> -->
 <a href="https://twitter.com/NjonjoNjubi"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/twitter.svg" alt="Albert Njubi | Twitter" width="21px"/></a>
 <a href="http://www.albertnjubi.com"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Albert Njubi | Official Website" width="21px"/></a>
