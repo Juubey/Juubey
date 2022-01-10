@@ -6,7 +6,7 @@
 </div> 
 --->
 <h3 align="center">
-    Hi, I'm <a href="https://www.albertnjubi.com/" target="_blank" rel="noreferrer">Albert Njonjo Njubi</a>.👋🏾
+    Hi, I'm <a href="https://linktr.ee/AlbertNNjubi" target="_blank" rel="noreferrer">Albert Njonjo Njubi</a>.👋🏾
 </h3>
 
 <h4 align="center">
